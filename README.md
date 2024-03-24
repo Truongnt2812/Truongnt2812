@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Truongnt2812
 - 👀 I’m interested in Machine learning and implement it in embedded system
-- 🌱 I’m currently learning Mechatronic at Uni
+- 🌱 I’m currently working as an Embedded Software Engineer.
 - 📫 How to reach me: tangtruong2812@gmail.com or truongntwork@gmail.com
 
 <!---
